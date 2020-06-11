@@ -29,7 +29,6 @@ $ npm test
 ```
 
 ## Release
-We build with Docker so you will need to have that installed.
 
 When building the image, please keep the version consistent with package.json
 ```
